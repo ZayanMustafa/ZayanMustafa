@@ -3,6 +3,8 @@
 
 <img align="right" alt="Coding GIF" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
+![Profile Views](https://img.shields.io/badge/Profile%20Views-123-blue?style=flat-square)
+
 - 🌱 I’m currently learning **Backend Development.**
 - 🔨 I’m working on a project for **Summit View School.**
 - 📫 How to reach me **mustafazayyan13@gmail.com**
