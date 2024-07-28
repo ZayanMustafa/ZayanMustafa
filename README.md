@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Zayyan Mustafa</h1>
+<h1 align="center">Hi 👋, I'm Zayyan Mustafa 
+  <img align="right" src="https://komarev.com/ghpvc/?username=zayanmustafa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</h1>
 <h3 align="center">A Front-End Developer from Pakistan with beginner-level expertise in Backend Development</h3>
 
 <img align="right" alt="Coding GIF" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
