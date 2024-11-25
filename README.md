@@ -7,7 +7,7 @@
 <img align="right" alt="Coding GIF" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 - 🌱 Currently learning **Backend Development**
-- 🔨 Working on a project for **Summit View School**
+- 🔨 Working on a project for **Youth Islami Movement**
 - 📫 Reach me at: **mustafazayyan13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
