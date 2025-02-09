@@ -1,55 +1,79 @@
-<h1 align="center">Hi 👋, I'm Zayyan Mustafa</h1>
+# Hi 👋, I'm Zayyan Mustafa
+
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=zayanmustafa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<h3 align="center">A Front-End Developer from Pakistan with growing expertise in Backend Development</h3>
 
-<img align="right" alt="Coding GIF" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+## 🚀 Passionate MERN Stack & App Developer from Pakistan 🇵🇰
 
-- 🌱 Currently learning **Backend Development**
-- 🔨 Working on a project for **Youth Islami Movement**
-- 📫 Reach me at: **mustafazayyan13@gmail.com**
+### 🔧 Full-Stack Web & App Developer | Open Source Contributor | Problem Solver
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 👋 About Me
+- 💻 **I'm Zayyan Mustafa**, a **Passionate MERN Stack Developer**  
+- 🚀 **Currently working on:** **A Real-Time Chat App with MERN & Socket.io**  
+- 🎯 **Tech Enthusiast:** Love solving problems & optimizing applications  
+- 📚 **Learning:** **React Native for Mobile App Development**  
+- 📍 **Location:** Karachi, Pakistan 🇵🇰  
+- 👯️‍♂️ **Reach out to me at:** [**mustafazayyan13@gmail.com**](mailto:mustafazayyan13@gmail.com)  
+
+---
+
+## 🚀 Tech Stack & Skills
+### 💻 Frontend:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,js,ts,html,css" />
+</p>
+
+### ⚙️ Backend & Database:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 📱 Mobile App Development:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" /> **(React Native - Learning)**
+</p>
+
+### 🛠️ Dev Tools & Platforms:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel,netlify" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Contributions
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zayanmustafa&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zayanmustafa&theme=tokyonight" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayanmustafa&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Connect with Me
 <p align="left">
   <a href="https://x.com/ZayyanMustafaa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="40px"/>
   </a>
-  <a href="https://www.linkedin.com/in/zayyan-mustafa-195836313/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/zayyanmustafa13/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
   </a>
-  <a href="https://www.facebook.com/ZayyanMustafaa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40"/>
+   <a href="https://www.discord.com/zayyanmustafaa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="40px"/>
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zayanmustafa&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zayanmustafa&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+## 🖼️ Profile Banner
+<p align="center">
+  <img src="https://i.pinimg.com/736x/86/a1/21/86a121da9e20aaa56fd43cac35a367b7.jpg" width="500px"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zayanmustafa&" alt="GitHub Streak" /></p>
+---
+
+### 🔥 Always Learning & Growing | Let’s Build Something Amazing! 🚀
