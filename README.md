@@ -62,8 +62,14 @@
   <a href="https://www.linkedin.com/in/zayyanmustafa/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
   </a>
-   <a href="https://www.discord.com/zayyanmustafaa" target="_blank">
+  <a href="https://www.discord.com/zayyanmustafaa" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="40px"/>
+  </a>
+  <a href="https://stackoverflow.com/users/29784191/zayyan-mustafa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" width="40px"/>
+  </a>
+  <a href="https://dev.to/zayyanmustafa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" width="40px"/>
   </a>
 </p>
 
