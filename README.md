@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 - 💻 **I'm Zayyan Mustafa**, a **Passionate MERN Stack Developer**  
-- 🚀 **Currently working on:** **A Real-Time Chat App with MERN & Socket.io**  
+- 🚀 **Currently working on:** **Multi vender E-commerce web**  
 - 🎯 **Tech Enthusiast:** Love solving problems & optimizing applications  
 - 📚 **Learning:** **React Native for Mobile App Development**  
 - 📍 **Location:** Karachi, Pakistan 🇵🇰  
