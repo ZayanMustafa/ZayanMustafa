@@ -1,85 +1,46 @@
-# Hi 👋, I'm Zayyan Mustafa
+# Hey, I'm Zayyan Mustafa 👋  
+
+> "They call me a **MERN Stack Developer**, but I see myself as a **Problem Solver**."  
+
+---
+
+## 🌱 About Me  
+- 💻 Passionate about building **scalable, user-focused web & mobile solutions**  
+- 🚀 Currently working on a **Multi-Vendor E-commerce Platform**  
+- 📚 Exploring **React Native** to expand into cross-platform mobile apps  
+- 🔍 Interested in **performance optimization, clean UI/UX, and backend efficiency**  
+- 📍 Based in **Karachi, Pakistan**  
+- ✉️ Reach me at **[mustafazayyan13@gmail.com](mailto:mustafazayyan13@gmail.com)**  
+
+---
+
+## 🛠 Tech I Work With  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+---
+
+## 📂 Projects & Work  
+- 🛒 **Multi-Vendor E-commerce Platform** — Building from scratch with **Next.js, Node.js, and MongoDB**  
+- 📱 **React Native Experiments** — Testing mobile app UIs and cross-platform components  
+- 🧩 **Mini Projects & Clones** — From small **React UI components** to **API integrations**  
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zayyanmustafa/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/ZayyanMustafaa)  
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29784191/zayyan-mustafa)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/zayyanmustafa)  
+
+---
 
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=zayanmustafa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <i>“The key to being a developer isn’t having all the answers, but knowing how to find them.”</i>
 </p>
-
-## 🚀 Passionate MERN Stack & App Developer from Pakistan 🇵🇰
-
-### 🔧 Full-Stack Web & App Developer | Open Source Contributor | Problem Solver
-
----
-
-## 👋 About Me
-- 💻 **I'm Zayyan Mustafa**, a **Passionate MERN Stack Developer**  
-- 🚀 **Currently working on:** **Multi vender E-commerce web**  
-- 🎯 **Tech Enthusiast:** Love solving problems & optimizing applications  
-- 📚 **Learning:** **React Native for Mobile App Development**  
-- 📍 **Location:** Karachi, Pakistan 🇵🇰  
-- 👯️‍♂️ **Reach out to me at:** [**mustafazayyan13@gmail.com**](mailto:mustafazayyan13@gmail.com)  
-
----
-
-## 🚀 Tech Stack & Skills
-### 💻 Frontend:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,js,ts,html,css" />
-</p>
-
-### ⚙️ Backend & Database:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-### 📱 Mobile App Development:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" /> **(React Native - Learning)**
-</p>
-
-### 🛠️ Dev Tools & Platforms:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel,netlify" />
-</p>
-
----
-
-## 📊 GitHub Stats & Contributions
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zayanmustafa&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zayanmustafa&theme=tokyonight" />
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayanmustafa&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌍 Connect with Me
-<p align="left">
-  <a href="https://x.com/ZayyanMustafaa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40px"/>
-  </a>
-  <a href="https://www.linkedin.com/in/zayyanmustafa/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
-  </a>
-  <a href="https://www.discord.com/zayyanmustafaa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="40px"/>
-  </a>
-  <a href="https://stackoverflow.com/users/29784191/zayyan-mustafa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" width="40px"/>
-  </a>
-  <a href="https://dev.to/zayyanmustafa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" width="40px"/>
-  </a>
-</p>
-
----
-
-## 🖼️ Profile Banner
-<p align="center">
-  <img src="https://i.pinimg.com/736x/86/a1/21/86a121da9e20aaa56fd43cac35a367b7.jpg" width="500px"/>
-</p>
-
----
-
-### The key to being a successful developer isn’t knowing all the answers, but knowing how to find them.
