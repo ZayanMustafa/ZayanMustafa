@@ -1,6 +1,6 @@
 # Hey, I'm Zayyan Mustafa 👋  
 
-> "They call me a **MERN Stack Developer**, but I see myself as a **Problem Solver**."  
+> "They call it errors**, I call it opportunities to learn.**."  
 
 ---
 
